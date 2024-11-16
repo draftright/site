@@ -5,15 +5,13 @@ subtitle: A Guide for Technical Writers
 categories: introduction
 author: "Dilip Rout"
 meta: ""
-tags: introduction technicalwriting
+tags: usermanuals technicalwriting guides
 top: 
-excerpt_image: https://images.pexels.com/photos/6958503/pexels-photo-6958503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+excerpt_image: https://images.pexels.com/photos/22604142/pexels-photo-22604142/free-photo-of-new-samsung-smartphone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 
 ---
-![banner](https://images.pexels.com/photos/6958503/pexels-photo-6958503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
+![banner](https://images.pexels.com/photos/22604142/pexels-photo-22604142/free-photo-of-new-samsung-smartphone.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-
-## The Art of Writing Effective User Manuals: A Guide for Technical Writers
 
 In the world of technical writing, creating user manuals is one of the most challenging yet rewarding tasks. A well-crafted user manual bridges the gap between complex systems and end-users, ensuring they can use a product effectively. This blog explores the essential elements of writing user manuals that are clear, concise, and user-friendly.
 
