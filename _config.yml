@@ -26,7 +26,7 @@
 
 title: Draft Right
 email: connect@diliprout.in
-author: draftright
+author: Dilip Rout
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
@@ -40,13 +40,13 @@ author: draftright
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Draft Right (cleft) {currentYear} {author}"
+copyright: "Draft Right (cleft) {currentYear} - {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Your Average Technical Writing Blog Site.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "draftright" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://draftright.in" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
