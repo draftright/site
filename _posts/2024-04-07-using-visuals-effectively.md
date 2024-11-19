@@ -37,42 +37,42 @@ Use diagrams to illustrate processes, workflows, or relationships between compon
 - **Examples:** Flowcharts, system architecture diagrams, wiring diagrams.  
 - **Best for:** Explaining complex systems or sequences.  
 
-[Flowchart](https://images.pexels.com/photos/1181311/pexels-photo-1181311.jpeg)
+![Flowchart](https://images.pexels.com/photos/1181311/pexels-photo-1181311.jpeg)
 
 ### 2. **Screenshots**
 Screenshots are invaluable for software documentation, showing users what to expect at each step.  
 - Add annotations like arrows, highlights, or callouts to guide attention.  
 - Ensure images are cropped to show only the relevant portions of the screen.  
 
-[Screenshot](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
+![Screenshot](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg)
 
 ### 3. **Tables**
 Use tables to organize and present data concisely.  
 - **Examples:** Feature comparisons, system requirements, troubleshooting codes.  
 - Keep tables simple and avoid overcrowding with text.  
 
-[notes](https://images.pexels.com/photos/7213503/pexels-photo-7213503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![notes](https://images.pexels.com/photos/7213503/pexels-photo-7213503.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ### 4. **Illustrations**
 Custom illustrations are excellent for showing detailed technical components or assembly instructions.  
 - **Examples:** Exploded views, product parts labeling.  
 - Use consistent styles and clear labels.  
 
-[Labels](https://images.pexels.com/photos/5532834/pexels-photo-5532834.jpeg)
+![Labels](https://images.pexels.com/photos/5532834/pexels-photo-5532834.jpeg)
 
 ### 5. **Graphs and Charts**
 Graphs and charts are ideal for presenting numerical data or trends.  
 - **Examples:** Bar graphs, pie charts, line graphs.  
 - Use legends and labels to ensure clarity.  
 
-[Bar Graph](https://images.pexels.com/photos/7947629/pexels-photo-7947629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Bar Graph](https://images.pexels.com/photos/7947629/pexels-photo-7947629.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ### 6. **Icons**
 Icons help guide users or highlight key points.  
 - Use universally recognized symbols (e.g., warning signs, checkmarks).  
 - Avoid overloading documents with too many icons, which can clutter the layout.  
 
-[icons](https://images.pexels.com/photos/6712711/pexels-photo-6712711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![icons](https://images.pexels.com/photos/6712711/pexels-photo-6712711.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 ---
 
 ## Best Practices for Using Visuals in Technical Writing
@@ -95,9 +95,9 @@ Maintain a uniform style across all visuals in your document.
 - Use the same font, color scheme, and line thickness.  
 - Label all visuals consistently.  
 
-> **Image Prompt:** Include a before-and-after comparison of inconsistent vs. consistent visuals.
-> [Good Visual](https://images.pexels.com/photos/7947848/pexels-photo-7947848.jpeg)
-> [Bad Visual](https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+> ![Good Visual](https://images.pexels.com/photos/7947848/pexels-photo-7947848.jpeg)
+> ![Bad Visual](https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ### 5. **Integrate Visuals Seamlessly**
 Visuals should complement the text, not disrupt the flow.  
@@ -111,7 +111,7 @@ Every visual should have a caption explaining its purpose.
 - Label axes on graphs.  
 - Add descriptive titles to tables.  
 
-[Graphs with Label](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg)
+![Graphs with Label](https://images.pexels.com/photos/669610/pexels-photo-669610.jpeg)
 
 ### 7. **Consider Accessibility**
 Ensure your visuals are usable by all readers, including those with visual impairments.  
@@ -127,7 +127,7 @@ Ensure your visuals are usable by all readers, including those with visual impai
 3. **Ignoring Scalability:** Ensure visuals are legible when resized or printed.  
 4. **Skipping Proper Attribution:** If using third-party visuals, credit the source properly.  
 
-[Humour](https://images.pexels.com/photos/16261357/pexels-photo-16261357/free-photo-of-salida-de-emergencia-emergency-exit-and-man-walking-street-in-malaga-spain.jpeg)
+![Humour](https://images.pexels.com/photos/16261357/pexels-photo-16261357/free-photo-of-salida-de-emergencia-emergency-exit-and-man-walking-street-in-malaga-spain.jpeg)
 ---
 
 ## Tools for Creating Effective Visuals
@@ -143,5 +143,5 @@ Ensure your visuals are usable by all readers, including those with visual impai
 
 Visuals are a powerful tool in technical writing, but their effectiveness depends on thoughtful integration and design. By using the right types of visuals, following best practices, and avoiding common pitfalls, you can enhance your documentation’s clarity, usability, and overall appeal. Remember, a well-chosen visual is worth a thousand words—but only if it’s done right.
 
-[Clear](https://images.pexels.com/photos/21562946/pexels-photo-21562946/free-photo-of-blue-yes-button-on-turquoise-back.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+![Clear](https://images.pexels.com/photos/21562946/pexels-photo-21562946/free-photo-of-blue-yes-button-on-turquoise-back.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 ---
