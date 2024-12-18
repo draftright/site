@@ -21,39 +21,47 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Install ruby-build and manually install Ruby
-      - name: Install ruby-build
+      # Install ruby-build in the Home Directory
+      - name: Install ruby-build in Home Directory
         run: |
-          sudo apt-get update
-          sudo apt-get install -y git build-essential libssl-dev zlib1g-dev
-          git clone https://github.com/rbenv/ruby-build.git
-          PREFIX=/usr/local ./ruby-build/install.sh
+          git clone https://github.com/rbenv/ruby-build.git ~/.ruby-build
+          export PATH="$HOME/.ruby-build/bin:$PATH"
 
+      # Install Ruby manually in a writable directory
       - name: Install Ruby manually
         run: |
-          ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
-          mkdir -p /opt/hostedtoolcache/Ruby/3.1.4/x64/bin
-          ln -s /opt/hostedtoolcache/Ruby/3.1.4/x64/bin/ruby /usr/local/bin/ruby
-          touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
+          mkdir -p $HOME/.ruby
+          ~/.ruby-build/bin/ruby-build 3.1.4 $HOME/.ruby/3.1.4
+          export PATH="$HOME/.ruby/3.1.4/bin:$PATH"
+          touch $HOME/.ruby/3.1.4.complete
 
+      # Verify Ruby Installation
       - name: Verify Ruby Installation
         run: |
+          export PATH="$HOME/.ruby/3.1.4/bin:$PATH"
           ruby --version
           gem --version
 
       # Install Bundler and dependencies
       - name: Install Bundler
-        run: gem install bundler
+        run: |
+          export PATH="$HOME/.ruby/3.1.4/bin:$PATH"
+          gem install bundler
 
       - name: Install Gems
-        run: bundle install
+        run: |
+          export PATH="$HOME/.ruby/3.1.4/bin:$PATH"
+          bundle install
 
+      # Build the Jekyll site
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
+        run: |
+          export PATH="$HOME/.ruby/3.1.4/bin:$PATH"
+          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
 
