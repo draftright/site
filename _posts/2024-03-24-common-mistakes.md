@@ -16,6 +16,8 @@ Technical writing demands clarity, precision, and a user-focused approach. Howev
 
 In this blog, we’ll explore typical missteps in technical writing and provide actionable strategies to overcome them.
 
+![The Mistake](/assets/images/b6-mistakes/1.png)
+
 ---
 
 ## 1. Overcomplicating Language
@@ -32,7 +34,7 @@ Using overly technical jargon, complex sentences, or verbose explanations can co
 - Instead of: *"Utilize the lever to initiate the mechanical operation of the apparatus."*  
 - Write: *"Pull the lever to start."*
 
-> **Image Prompt:** Add an infographic comparing an overly complex sentence with a simplified version.
+![The Overcomplication](/assets/images/b6-mistakes/2.png)
 
 ---
 
@@ -48,7 +50,7 @@ Failing to consider the reader’s background, needs, or level of expertise can 
   - What do they hope to achieve?  
 - Tailor the tone, depth, and examples to match the audience.
 
-> **Image Prompt:** Show a side-by-side graphic of a user manual tailored for experts vs. one for beginners.
+![The Audience](/assets/images/b6-mistakes/3.png)
 
 ---
 
@@ -64,7 +66,7 @@ Unorganized or poorly formatted content makes it hard for users to find the info
 
 **Quick Tip:** Follow the “inverted pyramid” approach—start with the most critical information and delve into details later.
 
-> **Image Prompt:** Include a mockup of a clean, well-organized page layout with headings and bullet points.
+![The Structure](/assets/images/b6-mistakes/4.png)
 
 ---
 
@@ -78,7 +80,7 @@ Relying solely on text to explain complex ideas or processes can overwhelm reade
 - Ensure visuals are labeled and referenced within the content.  
 - Avoid cluttered or overly detailed visuals that can confuse readers.  
 
-> **Image Prompt:** Show a before-and-after example of a technical document—one without visuals and one enhanced with diagrams.
+![The Visual](/assets/images/b6-mistakes/5.png)
 
 ---
 
@@ -95,7 +97,7 @@ Inconsistent terminology, formatting, or style can confuse readers and diminish 
 **Example:**  
 If you call a button *“Start”* in one section, don’t refer to it as *“Power On”* elsewhere.
 
-> **Image Prompt:** Add a graphic illustrating inconsistent vs. consistent document formatting.
+![The Consistency](/assets/images/b6-mistakes/6.png)
 
 ---
 
@@ -109,7 +111,7 @@ Failing to include critical details like prerequisites, steps, or troubleshootin
 - Include all necessary prerequisites, tools, or steps in the document.  
 - Add a dedicated troubleshooting or FAQ section.
 
-> **Image Prompt:** Create a checklist graphic of essential sections to include in technical documents.
+![The Key Info](/assets/images/b6-mistakes/7.png)
 
 ---
 
@@ -122,7 +124,7 @@ Documents written in isolation, without real-world testing or user feedback, oft
 - Test your document by having someone unfamiliar with the product follow the instructions.  
 - Collect feedback from actual users and revise based on their input.  
 
-> **Image Prompt:** Include an image of a user group reviewing a document.
+![The Test and Feedback](/assets/images/b6-mistakes/8.png)
 
 ---
 
@@ -135,7 +137,7 @@ Failing to update documentation after product changes leads to outdated or inacc
 - Establish a process for regularly reviewing and updating documents.  
 - Version-control your documentation to keep track of changes.
 
-> **Image Prompt:** Add a timeline graphic showing a document update process.
+![The Update](/assets/images/b6-mistakes/9.png)
 
 ---
 
@@ -149,7 +151,7 @@ Ignoring accessibility considerations makes your document unusable for some read
 - Add alt text for images.  
 - Avoid using color alone to convey meaning; use labels or text as well.  
 
-> **Image Prompt:** Include an example of an accessible document with clear font, high contrast, and labeled visuals.
+![The Accessibility](/assets/images/b6-mistakes/10.png)
 
 ---
 
@@ -162,7 +164,7 @@ Typos, grammatical errors, or awkward phrasing can undermine the credibility of 
 - Proofread multiple times, ideally with a fresh pair of eyes.  
 - Use tools like Grammarly, but don’t rely solely on them.  
 
-> **Image Prompt:** Add a humorous illustration of a typo causing a misunderstanding.
+![The Proofread](/assets/images/b6-mistakes/11.png)
 
 ---
 
@@ -170,6 +172,6 @@ Typos, grammatical errors, or awkward phrasing can undermine the credibility of 
 
 Avoiding these common mistakes can transform your technical writing from mediocre to exceptional. By focusing on clarity, organization, and user needs, you’ll create documentation that not only informs but also enhances the user experience. Remember, great technical writing isn’t just about transferring knowledge—it’s about doing so in a way that’s easy, effective, and engaging for your audience.
 
-> **Image Prompt:** End with a graphic of a satisfied user with a well-crafted document in hand.
+![The Conclusion](/assets/images/b6-mistakes/12.png)
 
 ---
