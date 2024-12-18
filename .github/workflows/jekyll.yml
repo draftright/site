@@ -15,26 +15,33 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # Install Ruby manually in case of issues
-      - name: Install Ruby manually
+      # Install ruby-build and manually install Ruby
+      - name: Install ruby-build
         run: |
           sudo apt-get update
-          sudo apt-get install -y ruby-full
+          sudo apt-get install -y git build-essential libssl-dev zlib1g-dev
+          git clone https://github.com/rbenv/ruby-build.git
+          PREFIX=/usr/local ./ruby-build/install.sh
+
+      - name: Install Ruby manually
+        run: |
+          ruby-build 3.1.4 /opt/hostedtoolcache/Ruby/3.1.4/x64
+          mkdir -p /opt/hostedtoolcache/Ruby/3.1.4/x64/bin
+          ln -s /opt/hostedtoolcache/Ruby/3.1.4/x64/bin/ruby /usr/local/bin/ruby
+          touch /opt/hostedtoolcache/Ruby/3.1.4/x64.complete
+
+      - name: Verify Ruby Installation
+        run: |
           ruby --version
+          gem --version
 
-      - name: Setup Ruby
-        uses: ruby/setup-ruby@8575951200e472d5f2d95c625da0c7bec8217c42 # v1.161.0
-        with:
-          ruby-version: '3.1.4' # Specify the exact version
-          bundler-cache: true
-
+      # Install Bundler and dependencies
       - name: Install Bundler
         run: gem install bundler
 
@@ -53,7 +60,6 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
