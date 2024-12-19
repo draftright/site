@@ -14,6 +14,9 @@ excerpt_image: https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpe
 
 Technical writing requires more than just writing skills; it also depends on using the right tools to produce professional, polished, and efficient documentation. From creating structured content to managing version control, selecting the right tools can significantly impact your workflow and output quality. In this blog, we’ll dive into the types of tools every technical writer should consider, along with tips for choosing the ones that suit your needs.
 
+![The Tools](/assets/images/b7-tools/1.png)
+
+
 ---
 
 ## Why Choosing the Right Tools Matters
@@ -23,7 +26,7 @@ Technical writing requires more than just writing skills; it also depends on usi
 3. **Collaboration:** Many tools facilitate teamwork, enabling smooth collaboration with designers, developers, and subject matter experts.  
 4. **Scalability:** As projects grow, tools with advanced features can handle complex requirements like version control or localization.
 
-> **Image Prompt:** Add an illustration of a toolbox with icons representing different types of writing tools, such as text editors, design software, and collaboration platforms.
+![The Tool Type](/assets/images/b7-tools/2.png)
 
 ---
 
@@ -39,13 +42,13 @@ These are the foundational tools for drafting and editing content.
 
 **Use Case:** Ideal for short documents, brainstorming drafts, or team collaborations.  
 
-> **Image Prompt:** Show a side-by-side comparison of Microsoft Word and Google Docs with highlighted collaboration features.
+![The Words](/assets/images/b7-tools/3.png)
 
 ---
 
 ### 2. **Content Management Systems (CMS)**
 For web-based documentation, CMS platforms help organize and publish content efficiently.  
-- **Examples:** WordPress, Drupal, Confluence.  
+- **Examples:** Ixiasoft, Confluence, Drupal.  
 - **Features to Look For:**  
   - Customizable templates.  
   - Easy navigation for end-users.  
@@ -53,27 +56,27 @@ For web-based documentation, CMS platforms help organize and publish content eff
 
 **Use Case:** Best for hosting online help centers, blogs, or knowledge bases.  
 
-> **Image Prompt:** Include a screenshot of a CMS dashboard with an organized content structure.
+![The CMS](/assets/images/b7-tools/4.png)
 
 ---
 
 ### 3. **Desktop Publishing Tools**
 These tools focus on creating polished, print-ready documents.  
-- **Examples:** Adobe InDesign, Scribus.  
+- **Examples:** Adobe Framemaker, Madcap Flare.  
 - **Features to Look For:**  
   - Advanced layout and design options.  
   - Support for multi-page documents.  
-  - High-quality export formats (PDF, EPS).  
+  - High-quality export formats (PDF, EPS, HTML).  
 
 **Use Case:** Ideal for creating user manuals, brochures, and other formal publications.  
 
-> **Image Prompt:** Display a sample layout of a user manual designed in Adobe InDesign.
+![The Publisher](/assets/images/b7-tools/12.png)
 
 ---
 
 ### 4. **Markdown Editors**
 Markdown is a lightweight markup language that simplifies formatting for online content.  
-- **Examples:** Typora, Obsidian, VS Code with Markdown extensions.  
+- **Examples:** VS Code with Markdown extensions.  
 - **Features to Look For:**  
   - Real-time preview.  
   - Syntax highlighting.  
@@ -81,7 +84,7 @@ Markdown is a lightweight markup language that simplifies formatting for online 
 
 **Use Case:** Perfect for creating technical documents, GitHub README files, or knowledge base articles.  
 
-> **Image Prompt:** Show a screenshot of a markdown editor with syntax highlighting and preview enabled.
+![The Editor](/assets/images/b7-tools/5.png)
 
 ---
 
@@ -95,7 +98,7 @@ Visual aids like screenshots and annotations enhance the clarity of technical do
 
 **Use Case:** Essential for software tutorials, troubleshooting guides, and user manuals.  
 
-> **Image Prompt:** Show an annotated screenshot from Snagit demonstrating step-by-step instructions.
+![The Screener](/assets/images/b7-tools/6.png)
 
 ---
 
@@ -109,7 +112,7 @@ Diagrams simplify complex ideas and improve user understanding.
 
 **Use Case:** Great for explaining workflows, processes, or system architecture.  
 
-> **Image Prompt:** Include a sample flowchart showing a decision-making process designed in Lucidchart.
+![The Charter](/assets/images/b7-tools/7.png)
 
 ---
 
@@ -123,7 +126,7 @@ Version control is crucial for managing changes in large documentation projects.
 
 **Use Case:** Indispensable for technical writers working on software documentation with frequent updates.  
 
-> **Image Prompt:** Show a GitHub repository page with highlighted version history and collaboration options.
+![The Git](/assets/images/b7-tools/8.png)
 
 ---
 
@@ -137,7 +140,7 @@ Proofreading tools help eliminate errors and improve the readability of your con
 
 **Use Case:** Useful for polishing drafts before publishing.  
 
-> **Image Prompt:** Add a comparison of Grammarly’s suggestions for improving a sample text.
+![The Proof](/assets/images/b7-tools/9.png)
 
 ---
 
@@ -171,7 +174,7 @@ Proofreading tools help eliminate errors and improve the readability of your con
 3. **Skipping Training:**  
    Investing time in learning a tool can save hours of frustration later.  
 
-> **Image Prompt:** Add a humorous graphic of a writer juggling too many tools and struggling to keep up.
+![The Pitfall](/assets/images/b7-tools/10.png)
 
 ---
 
@@ -179,6 +182,6 @@ Proofreading tools help eliminate errors and improve the readability of your con
 
 Choosing the right tools for technical writing is about finding the perfect balance between functionality, ease of use, and cost. By understanding your project requirements and exploring the wide array of available tools, you can build a toolkit that boosts your productivity and ensures professional-quality output. Remember, the tools you choose should serve your needs—not the other way around.
 
-> **Image Prompt:** Close with an image of a streamlined workspace featuring a laptop with various tools open, representing an efficient workflow.
+![The Flow](/assets/images/b7-tools/11.png)
 
 ---

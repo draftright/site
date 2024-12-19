@@ -7,9 +7,9 @@ author: "Dilip Rout"
 meta: ""
 tags: ai tools technicalwriting
 top: 
-excerpt_image: https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg
+excerpt_image: https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg
 ---
-![banner]([https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg](https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg))
+![banner](https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg)
 
 
 Artificial Intelligence (AI) is reshaping industries across the globe, and technical writing is no exception. From streamlining content creation to enhancing quality, AI tools are becoming indispensable for technical writers. These tools assist in automating repetitive tasks, improving accuracy, and ensuring consistency, leaving writers free to focus on crafting clear and user-centric content.
