@@ -28,59 +28,59 @@ Your documentation should cater to these needs by being detailed yet straightfor
 
 ## Key Elements of Advanced API Documentation
 1. Detailed Endpoints and Parameters
-
     * Clearly explain all endpoints, including HTTP methods, URLs, and sample requests/responses.
     * Provide exhaustive details for each parameter, including:
         * Type (e.g., string, integer, boolean).
         * Constraints (e.g., minimum/maximum values, regex patterns).
         * Default values (if any).
     * Document error codes with possible causes and solutions.
-2. Authentication and Authorization
 
+2. Authentication and Authorization
     * Explain how to authenticate, including token generation and usage.
     * Detail the roles and permissions if your API has restricted access.
-3. Rate Limiting and Quotas
 
+3. Rate Limiting and Quotas
     * Provide specific rate limits and their implementation.
     * Explain what happens when limits are exceeded and how users can handle such scenarios.
-4. Versioning
 
+4. Versioning
     * Highlight the API version being documented.
     * Include a section on versioning strategy (e.g., URL versioning, headers).
-5. Use Cases and Code Examples
 
+5. Use Cases and Code Examples
     * Provide advanced use-case scenarios with practical implementations.
     * Include language-specific examples for common programming languages.
     * Use clear and consistent formatting (e.g., Markdown or JSON).
-6. Interactive Features
 
+6. Interactive Features
     * Integrate tools like Swagger or Postman collections for hands-on API exploration.
     * Include a testing environment where users can try requests in real time.
 
 ## Best Practices for Writing Advanced API Documentation
-1. Adopt a Structured Format Use a clear structure:
 
+1. Adopt a Structured Format Use a clear structure:
     * Overview: A brief explanation of the API’s purpose.
     * Getting Started: Steps for authentication and setup.
     * Endpoints: Comprehensive details for each endpoint.
     * FAQs and Troubleshooting: Address common issues.
-2. Maintain Consistency
 
+2. Maintain Consistency
     * Use consistent terminology, naming conventions, and formats throughout.
     * Define a style guide for your documentation.
-3. Incorporate Visuals
 
+3. Incorporate Visuals
     * Use diagrams to explain complex workflows.
     * Include request-response flowcharts.
-4. Enable Easy Navigation
 
+4. Enable Easy Navigation
     * Implement a table of contents with anchor links.
     * Provide search functionality if possible.
-5. Use Feedback to Improve
 
+5. Use Feedback to Improve
     * Regularly gather feedback from developers and iterate accordingly.
 
 ## Advanced Example: API Documentation for a Weather Service
+
 **Endpoint**: /weather/forecast
 
 **Method**: `GET`
@@ -88,11 +88,11 @@ Your documentation should cater to these needs by being detailed yet straightfor
 **Description**: Fetches a 7-day weather forecast for a specified location.
 
 **Parameters**:
-|Parameter	|Type	|Required	|Description |
+| Parameter | Type | Required | Description |
 | --------- | ------- | -------- | ----------- |
-|`location`	|String	|Yes	|City name or coordinates.|
-|`units`	|String	|No	|Measurement units (e.g., metric).|
-|`lang`	|String	|No	|Language for the response (e.g., en).|
+| `location` | String | Yes | City name or coordinates. |
+| `units` | String | No | Measurement units (e.g., metric). |
+| `lang` | String | No | Language for the response (e.g., en). |
 
 **Sample Request**:
 
