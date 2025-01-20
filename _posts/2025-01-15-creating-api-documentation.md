@@ -88,6 +88,7 @@ Your documentation should cater to these needs by being detailed yet straightfor
 **Description**: Fetches a 7-day weather forecast for a specified location.
 
 **Parameters**:
+
 | Parameter | Type | Required | Description |
 | --------- | ------- | -------- | ----------- |
 | `location` | String | Yes | City name or coordinates. |
